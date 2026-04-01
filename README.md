@@ -36,49 +36,49 @@ The main objectives of the project are:
 The development of this project follows a systematic and analytical approach. The methodology 
 includes the following steps: 
 
-**1. Data Collection**
+**1. Data Collection-**
 
 Amazon product search result data is collected in Excel format.
 
 
-**2. Data Cleaning**
+**2. Data Cleaning-**
 
 The raw data is cleaned by removing missing values and normalizing product price, rating, 
 and review count fields.
 
 
-**3. Data Analysis** 
+**3. Data Analysis-** 
 Statistical analysis is performed to compute summary statistics and rank products based on 
 ratings and reviews. 
 
 
-**4. Product Classification**
+**4. Product Classification-**
 
 o Top 10 products are identified using rating and review metrics 
 
 o Decent Deals products are identified using mid-price range and rating threshold 
 
 
-**5. Data Visualization**
+**5. Data Visualization-**
 
 Graphs such as price distribution, rating vs price, and reviews vs rating are generated using 
 Matplotlib. 
 
 
-**6. GUI Development** 
+**6. GUI Development-** 
 
 A Tkinter-based desktop GUI is developed with resizable graph panels, clickable product 
 links, and multiple color themes. 
 
 
-**7. Report Generation**
+**7. Report Generation-**
 
 A detailed PDF report is generated using ReportLab, including tables, statistics, and visual 
 graphs. 
 
 
 # **FACILITIES REQUIRED FOR PROPOSED WORK** 
-**#Software Requirements** 
+**#Software Requirements:** 
 
 • Python 3.x 
 
@@ -96,7 +96,7 @@ graphs.
 
 • Microsoft Excel 
 
-**#Hardware Requirements** 
+**#Hardware Requirements:** 
 
 • Personal Computer / Laptop 
 
@@ -104,7 +104,7 @@ graphs.
 
 • Intel / AMD Processor 
 
-**#APPLICATIONS** 
+**#APPLICATIONS:** 
 
 • E-commerce product comparison 
 

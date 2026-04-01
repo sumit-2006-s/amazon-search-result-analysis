@@ -1,6 +1,7 @@
 # amazon-search-result-analysis
 collect, clean, analyze,  and visualize data
-INTRODUCTION:  
+
+**#INTRODUCTION:**  
 With the rapid growth of e-commerce platforms such as Amazon, a large volume of product data 
 is generated for every search result. This data includes product names, prices, customer ratings, 
 number of reviews, and product links. Analyzing this raw data manually is difficult and time
